@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from build type: debug -->
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <!-- Values from default config. -->
+    <string name="CHATKIT_INSTANCE_LOCATOR_ID" translatable="false">"868fb799-935c-4258-a9ed-61684eb99654"</string>
+    <string name="CHATKIT_SECRET_KEY" translatable="false">"8c360abb-bdf2-4978-a1ae-6c641a3a462a:4TUDd11HGS88kE9dxgbRsWNKY6PPmtbleCj1VJ5Ps74="</string>
+
+</resources>
